@@ -66,7 +66,7 @@ El repositorio en VS Code debería lucir así:
 
 Procedemos a instalar los paquetes que necesitamos para correr el taller. 
 
-Para ello, usamos la terminal integrada en el VS Code.
+Para ello, usamos la terminal integrada en el VS Code (si no está abierta `<Ctrl+j>`).
 
 1. Abrimos el REPL de Julia. 
     - Desde la paleta de comandos `<Ctrl+Shift+P>` corremos `> Julia: Start REPL`.
